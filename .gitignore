@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+all_emails.txt
+.gitignore
+sample_emails.txt
